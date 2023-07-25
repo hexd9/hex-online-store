@@ -27,6 +27,8 @@ User Insomnia to test routes.
 
 https://drive.google.com/file/d/1PTWvpLoeA70NsnbtUvGAeaC3vOWNXjmK/view
 
+https://github.com/hexd9/hex-online-store
+
 
 
 ## Credits
