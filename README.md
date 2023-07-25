@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project provides a back-end for an e-commerce website, built with the latest technologies to empower your internet retail company and compete with other e-commerce businesses. The back-end utilizes Express.js and Sequelize to create a functional API, making it easy to manage and interact with your database.
 
 ## Table of Contents (Optional)
 
